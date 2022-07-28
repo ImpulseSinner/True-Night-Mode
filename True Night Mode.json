@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "⚝ImpulseSinner⚝#5687",
+        "name": "True Night Mode",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/877366598644670555\/1002084236599234591\/8179c3314f87242209eb37786645af95.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/877366598644670555\/1002092172964794428\/MidnightConstellations.ttf"
+    },
+    "simple_colors": {
+        "background_secondary": 0,
+        "background": 0,
+        "mention_highlight": 2102744405,
+        "active_channel": 2129061606,
+        "statusbar": 0,
+        "input_background": -1090519040
+    },
+    "colors": {
+        "primary_360": -16777216
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
